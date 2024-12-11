@@ -1,2 +1,2 @@
 # MSDiagnosis
-A dataset of multiple clinical diagnoses
+A dataset of multi-step clinical diagnosis
